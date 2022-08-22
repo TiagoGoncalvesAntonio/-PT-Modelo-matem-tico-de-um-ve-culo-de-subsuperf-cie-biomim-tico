@@ -16,7 +16,7 @@ O modelo foi desenvolvido e programado em Matlab, sendo composto pelos seguintes
 * **tobias_CL_CD.m** - Função para ler na tabela NACA0012 os coeficientes de sustentação e de arrasto dos respetivos ângulos de ataque das barbatanas peitorais.
 * **tobias_prop.m** - Função para o calculo estimado da força de impulso gerada pela cauda
 * **tobias_eq.m** - Função para a resolução das equações de dinâmica e cinemática do veículo. 
-* **tobias_main.m** - Script principal utilizando nas simulações em cadeia fechada, onde são integrados os dados provenientes dos ficheiros anteriores e definidos os parâmetros de controlo da simulação. 
+* **tobias_main.m** - Script principal utilizando nas simulações em cadeia aberta, onde são integrados os dados provenientes dos ficheiros anteriores e definidos os parâmetros de controlo da simulação. Para realizar simulações em cadeia aberta basta correr este script com os parâmetros pretendidos. 
 
 ## Authors
 

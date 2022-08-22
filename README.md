@@ -17,5 +17,6 @@ O modelo foi desenvolvido e programado em Matlab, sendo composto pelos seguintes
 ## Authors
 
 Tiago Gonçalves António
+
 email: tiagoantonio27@gmail.com
 

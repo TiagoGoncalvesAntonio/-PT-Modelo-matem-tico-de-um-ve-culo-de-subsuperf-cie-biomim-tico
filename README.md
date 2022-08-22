@@ -21,9 +21,9 @@ O modelo foi desenvolvido e programado em Matlab, sendo composto pelos seguintes
 * **tobias_blabla** -
 * **tobias_blabla** -
 * **tobias_blabla** -
-* **tobias_pos** - Nesta pasta encontram-se todos os scripts de pós processamento e visualização dos dados resultantes das simulações corridas ao longo do trabalho.
+* **tobias_pos** - Nesta pasta encontram-se todos os scripts de pós processamento e visualização dos dados resultantes das simulações realizadas ao longo do trabalho.
 
-## Authors
+## Autor
 
 Tiago Gonçalves António
 

@@ -4,7 +4,7 @@ Neste repositório é apresentado o código desenvolvido ao longo do meu trabalh
 
 ![tobias_oceano](https://user-images.githubusercontent.com/110428731/185928316-b9b63c95-5a4e-4874-9855-e27401cb4121.png)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/110428731/185928316-b9b63c95-5a4e-4874-9855-e27401cb4121.png" width="902" height="508">
+  <img src="https://user-images.githubusercontent.com/110428731/185928316-b9b63c95-5a4e-4874-9855-e27401cb4121.png" width="774" height="436">
 </p>
 
 ## Descrição

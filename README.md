@@ -26,6 +26,7 @@ O modelo foi desenvolvido e programado em Matlab, sendo composto pelos seguintes
 
 Tiago Gonçalves António
 
-email: tiagoantonio27@gmail.com
-       goncalves.antonio@marinha.pt
+email: 
+-tiagoantonio27@gmail.com
+-goncalves.antonio@marinha.pt
 
